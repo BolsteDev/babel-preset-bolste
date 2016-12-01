@@ -1,6 +1,6 @@
 {
   "name": "babel-preset-bolste",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A babel preset for transforming your JavaScript for Bolste",
   "main": "index.js",
   "author": "Ivan Montiel <imontiel@bolste.com>",
